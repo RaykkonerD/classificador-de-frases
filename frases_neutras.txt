@@ -1,0 +1,600 @@
+O shampoo é de camomila.
+O condicionador é de aloe vera.
+A máscara é de queratina.
+O óleo é de jojoba.
+O spray é de fixação média.
+O gel é de efeito molhado.
+A pomada é de acabamento matte.
+O secador é de 1800 watts.
+A chapinha é de titânio.
+O modelador é de 32 mm.
+A escova é de cerdas mistas.
+O pente é de dentes finos.
+O difusor é universal.
+O babyliss é de 19 mm.
+O cortador é sem fio.
+A máquina é de acabamento.
+A lâmina é descartável.
+O creme é de hidratação facial.
+O pós-barba é sem álcool.
+A navalha é de aço inoxidável.
+A toalha é de microfibra.
+O cinto é de couro.
+A capa é de poliéster.
+A tesoura é de ponta fina.
+O borrifador é de 200 ml.
+A prancha é de turmalina.
+O protetor é de calor.
+O shampoo é de limpeza profunda.
+O condicionador é de uso diário.
+A máscara é de nutrição.
+O sérum é de pontas.
+O tônico é de fortalecimento.
+O spray é de proteção térmica.
+O mousse é de volume.
+O finalizador é de controle de frizz.
+A escova é de madeira.
+O pente é de carbono.
+O elástico é de silicone.
+O prendedor é de metal.
+A tiara é de plástico.
+O laço é de veludo.
+O grampo é de aço.
+O aplique é de cabelo natural.
+A peruca é de fibra.
+O megahair é de fita adesiva.
+O adesivo é de fixação.
+O removedor é de resíduos.
+O shampoo é de ph neutro.
+O condicionador é de reparação.
+A máscara é de argila.
+O leave-in é de brilho.
+O óleo é de abacate.
+O tônico é de couro cabeludo.
+O spray é de definição de cachos.
+O gel é de fixação leve.
+A pomada é de textura.
+O pó é de modelagem.
+O penteado é solto.
+O coque é baixo.
+O rabo é de cavalo lateral.
+O cabelo é curto.
+O cabelo é médio.
+O cabelo é longo.
+O corte é assimétrico.
+O corte é em U.
+A franja é reta.
+O tingimento é loiro.
+O descolorante é de 30 volumes.
+A tinta é de cobertura total.
+O tonalizante é de longa duração.
+O oxidante é de 10 volumes.
+O pincel é de cerdas sintéticas.
+A touca é de silicone.
+O papel é de mechas.
+A luva é de látex.
+O avental é de poliéster.
+A capa é impermeável.
+O espelho é de mão.
+A cadeira é de barbeiro.
+O lavatório é de cabelo.
+O suporte é de secador.
+A prateleira é de acessórios.
+O frasco é de spray.
+O aplicador é de tintura.
+O penteado é semipreso.
+O cabelo é tingido.
+O corte é em V.
+A franja é curta.
+O shampoo é de ervas.
+O condicionador é de leite de coco.
+A máscara é de colágeno.
+O óleo é de macadâmia.
+O spray é de proteção solar.
+O gel é de efeito brilhante.
+A pomada é de fixação natural.
+O secador é de íons.
+A chapinha é de infravermelho.
+O modelador é de ondas.
+A escova é térmica.
+O pente é de madeira.
+O shampoo é de hortelã.
+O condicionador é de mel.
+A máscara é de ceramidas.
+O óleo é de amêndoas.
+O spray é de fixação suave.
+O gel é de alta definição.
+A pomada é de efeito seco.
+O secador é de 2200 watts.
+A chapinha é de nano titânio.
+O modelador é de 28 mm.
+A escova é de cerdas sintéticas.
+O pente é de plástico.
+O difusor é de silicone.
+O babyliss é de 38 mm.
+O cortador é de precisão.
+A máquina é de contorno.
+A lâmina é de titânio.
+O creme é de esfoliação.
+O pós-barba é de 50 ml.
+A navalha é dobrável.
+A toalha é de algodão.
+O cinto é de tecido.
+A capa é de nylon.
+A tesoura é de microdentes.
+O borrifador é de 300 ml.
+A prancha é de cerâmica preta.
+O protetor é de umidade.
+O shampoo é de óleo de argan.
+O condicionador é de proteção de cor.
+A máscara é de proteína.
+O sérum é de fortalecimento.
+O tônico é de equilíbrio.
+O spray é de controle de oleosidade.
+O mousse é de textura leve.
+O finalizador é de efeito natural.
+A escova é de bambu.
+O pente é de osso.
+O elástico é de tecido.
+O prendedor é de acrílico.
+A tiara é de metal.
+O laço é de algodão.
+O grampo é de plástico.
+O aplique é de kanekalon.
+A peruca é de cabelo humano.
+O megahair é de microlink.
+O adesivo é de dupla face.
+O removedor é de queratina.
+O shampoo é de leite de arroz.
+O condicionador é de karité.
+A máscara é de banana.
+O leave-in é de definição de cachos.
+O óleo é de semente de uva.
+O tônico é de estimulação.
+O spray é de antifrizz.
+O gel é de fixação extra forte.
+A pomada é de brilho moderado.
+O pó é de textura.
+O penteado é torcido.
+O coque é bagunçado.
+O rabo é de cavalo baixo.
+O cabelo é crespo.
+O cabelo é fino.
+O cabelo é grosso.
+O corte é degradê.
+O corte é chanelt.
+A franja é longa.
+O tingimento é vermelho.
+O descolorante é em creme.
+A tinta é de base natural.
+O tonalizante é sem enxágue.
+O oxidante é de 30 volumes.
+O pincel é de cerdas naturais.
+A touca é de plástico.
+O papel é de mechas largas.
+A luva é de vinil.
+O avental é de tecido.
+A capa é de velcro.
+O espelho é de parede.
+A cadeira é reclinável.
+O lavatório é portátil.
+O suporte é de tesoura.
+A prateleira é de vidro.
+O frasco é de 500 ml.
+O aplicador é de espuma.
+O penteado é com tranças finas.
+O cabelo é alisado.
+O corte é pixie.
+A franja é assimétrica.
+O shampoo é de gengibre.
+O condicionador é de aveia.
+A máscara é de babosa.
+O óleo é de rícino.
+O spray é de proteção contra umidade.
+O gel é de efeito natural.
+A pomada é de fixação média.
+O secador é com bico concentrador.
+A chapinha é de bordas arredondadas.
+O modelador é de tripla onda.
+A escova é de cerdas curtas.
+O pente é de dentes médios.
+O shampoo é de carvão ativado.
+O condicionador é de manga.
+A máscara é de óleo de coco.
+O óleo é de oliva.
+O spray é de revitalização.
+O gel é de fixação flexível.
+A pomada é de efeito brilhante.
+O secador é de viagem.
+A chapinha é de 1 polegada.
+O modelador é de 22 mm.
+A escova é de cerdas longas.
+O pente é de metal.
+O difusor é de encaixe.
+O babyliss é de cerâmica.
+O cortador é de lâmina ajustável.
+A máquina é de uso profissional.
+A lâmina é de cerâmica.
+O creme é de massagem facial.
+O pós-barba é de 75 ml.
+A navalha é de cabo de madeira.
+A toalha é de 50 cm.
+O cinto é ajustável.
+A capa é de botões.
+A tesoura é de cabo ergonômico.
+O borrifador é de 150 ml.
+A prancha é de aquecimento rápido.
+O protetor é de silicone.
+O shampoo é de maçã.
+O condicionador é de baunilha.
+A máscara é de abacate.
+O sérum é de proteção térmica.
+O tônico é de limpeza.
+O spray é de fixação duradoura.
+O mousse é de efeito leve.
+O finalizador é de textura seca.
+A escova é de formato oval.
+O pente é de fibra de carbono.
+O elástico é de 5 cm.
+O prendedor é de mola.
+A tiara é de cetim.
+O laço é de organza.
+O grampo é de 3 cm.
+O aplique é de 50 cm.
+A peruca é de 30 cm.
+O megahair é de costura.
+O adesivo é de cabelo.
+O removedor é de óleo.
+O shampoo é de menta.
+O condicionador é de chá verde.
+A máscara é de leite de cabra.
+O leave-in é de reparação de pontas.
+O óleo é de linhaça.
+O tônico é de cafeína.
+O spray é de proteção de cor.
+O gel é de modelagem.
+A pomada é de acabamento natural.
+O pó é de fixação.
+O penteado é com topete.
+O coque é lateral.
+O rabo é de cavalo alto.
+O cabelo é de comprimento médio.
+O cabelo é com mechas.
+O cabelo é natural.
+O corte é em bico.
+O corte é repicado.
+A franja é desfiada.
+O tingimento é preto.
+O descolorante é de 40 volumes.
+A tinta é de efeito metálico.
+O tonalizante é de 100 ml.
+O oxidante é de 15 volumes.
+O pincel é de ponta fina.
+A touca é de isopor.
+O papel é de mechas finas.
+A luva é de nitrilo.
+O avental é impermeável.
+A capa é de tecido leve.
+O espelho é redondo.
+A cadeira é de salão.
+O lavatório é fixo.
+O suporte é de prancha.
+A prateleira é de metal.
+O frasco é de 250 ml.
+O aplicador é de bico.
+O penteado é com ondas.
+O cabelo é platinado.
+O corte é undercut.
+A franja é dividida.
+O shampoo é de lavanda.
+O condicionador é de jasmim.
+A máscara é de morango.
+O óleo é de camélia.
+O spray é de desembaraço.
+O gel é de efeito firme.
+A pomada é de textura leve.
+O secador é de dupla voltagem.
+A chapinha é de 2 polegadas.
+O modelador é de cacho largo.
+A escova é de formato retangular.
+O pente é de cabo longo.
+O shampoo é de pêssego.
+O condicionador é de amora.
+A máscara é de melancia.
+O óleo é de buriti.
+O spray é de hidratação instantânea.
+O gel é de controle de volume.
+A pomada é de efeito úmido.
+O secador é com difusor.
+A chapinha é de temperatura ajustável.
+O modelador é de cacho médio.
+A escova é de cerdas macias.
+O pente é de cabo curto.
+O difusor é de 15 cm.
+O babyliss é de 16 mm.
+O cortador é de 10 watts.
+A máquina é de uso doméstico.
+A lâmina é de aço carbono.
+O creme é de limpeza facial.
+O pós-barba é de 150 ml.
+A navalha é de cabo plástico.
+A toalha é de 70 cm.
+O cinto é de nylon.
+A capa é de zíper.
+A tesoura é de 6 polegadas.
+O borrifador é de 100 ml.
+A prancha é de cerâmica branca.
+O protetor é de spray.
+O shampoo é de romã.
+O condicionador é de pitanga.
+A máscara é de açaí.
+O sérum é de hidratação.
+O tônico é de purificação.
+O spray é de fixação extra leve.
+O mousse é de proteção térmica.
+O finalizador é de brilho intenso.
+A escova é de formato redondo.
+O pente é de dentes curtos.
+O elástico é de 3 cm.
+O prendedor é de madeira.
+A tiara é de pérolas.
+O laço é de seda.
+O grampo é de 5 cm.
+O aplique é de 60 cm.
+A peruca é de 40 cm.
+O megahair é de nó italiano.
+O adesivo é de 10 cm.
+O removedor é de solvente.
+O shampoo é de limão.
+O condicionador é de laranja.
+A máscara é de blueberry.
+O leave-in é de proteção solar.
+O óleo é de pracaxi.
+O tônico é de alívio do couro cabeludo.
+O spray é de realce de cor.
+O gel é de longa duração.
+A pomada é de controle de fios.
+O pó é de efeito matte.
+O penteado é com volume.
+O coque é clássico.
+O rabo é de cavalo médio.
+O cabelo é com luzes.
+O cabelo é monocromático.
+O cabelo é com ombre.
+O corte é long bob.
+O corte é blunt.
+A franja é cortininha.
+O tingimento é acinzentado.
+O descolorante é de baixa amoníaco.
+A tinta é de 200 ml.
+O tonalizante é de 50 ml.
+O oxidante é de 40 volumes.
+O pincel é de cabo de madeira.
+A touca é de alumínio.
+O papel é de 20 cm.
+A luva é de poliuretano.
+O avental é de couro sintético.
+A capa é de manga longa.
+O espelho é quadrado.
+A cadeira é giratória.
+O lavatório é de cerâmica.
+O suporte é de borrifador.
+A prateleira é de acrílico.
+O frasco é de 100 ml.
+O aplicador é de silicone.
+O penteado é com tranças grossas.
+O cabelo é com balayage.
+O corte é sidecut.
+A franja é micro.
+O shampoo é de alecrim.
+O condicionador é de capim-limão.
+A máscara é de maçã verde.
+O óleo é de andiroba.
+O spray é de efeito liso.
+O gel é de baixa fixação.
+A pomada é de alta definição.
+O secador é de cerâmica.
+A chapinha é de 1,5 polegada.
+O modelador é de cacho fino.
+A escova é de cerdas duras.
+O pente é de dentes longos.
+O shampoo é de cranberry.
+O condicionador é de guaraná.
+A máscara é de cacau.
+O óleo é de murumuru.
+O spray é de proteção contra cloro.
+O gel é de efeito duradouro.
+A pomada é de acabamento leve.
+O secador é de 1600 watts.
+A chapinha é de voltagem dupla.
+O modelador é de cacho solto.
+A escova é de formato quadrado.
+O pente é de dentes retos.
+O difusor é de plástico.
+O babyliss é de 30 mm.
+O cortador é de 5 watts.
+A máquina é de graduação.
+A lâmina é de 2 mm.
+O creme é de tonificação.
+O pós-barba é de 200 ml.
+A navalha é de lâmina fixa.
+A toalha é de 100 cm.
+O cinto é de velcro.
+A capa é de tecido preto.
+A tesoura é de 5 polegadas.
+O borrifador é de gatilho.
+A prancha é de íons negativos.
+O protetor é de creme.
+O shampoo é de cidra.
+O condicionador é de cereja.
+A máscara é de goiaba.
+O sérum é de brilho.
+O tônico é de controle de queda.
+O spray é de textura.
+O mousse é de alta fixação.
+O finalizador é de proteção UV.
+A escova é de cerdas médias.
+O pente é de cabo de metal.
+O elástico é de 7 cm.
+O prendedor é de resina.
+A tiara é de strass.
+O laço é de linho.
+O grampo é de 4 cm.
+O aplique é de 70 cm.
+A peruca é de 50 cm.
+O megahair é de trança.
+O adesivo é de 5 cm.
+O removedor é de base aquosa.
+O shampoo é de tangerina.
+O condicionador é de maracujá.
+A máscara é de pitaya.
+O leave-in é de efeito liso.
+O óleo é de cupuaçu.
+O tônico é de revitalização.
+O spray é de controle de cachos.
+O gel é de efeito seco.
+A pomada é de fixação alta.
+O pó é de volume extra.
+O penteado é com dreads.
+O coque é donut.
+O rabo é de cavalo com trança.
+O cabelo é com highlights.
+O cabelo é com lowlights.
+O cabelo é texturizado.
+O corte é shaggy.
+O corte é mullet.
+A franja é baby bang.
+O tingimento é pastel.
+O descolorante é de 20 volumes.
+A tinta é de 150 ml.
+O tonalizante é de 75 ml.
+O oxidante é de 25 volumes.
+O pincel é de cabo de plástico.
+A touca é de tecido.
+O papel é de 15 cm.
+A luva é de tecido.
+O avental é de lona.
+A capa é de tecido colorido.
+O espelho é oval.
+A cadeira é de couro.
+O lavatório é de inox.
+O suporte é de pente.
+A prateleira é de madeira.
+O frasco é de 300 ml.
+O aplicador é de borracha.
+O penteado é com moicano.
+O cabelo é com reflexos.
+O corte é taper fade.
+A franja é texturizada.
+O shampoo é de abacaxi.
+O condicionador é de kiwi.
+A máscara é de framboesa.
+O óleo é de ojon.
+O spray é de proteção contra sal.
+O gel é de efeito liso.
+A pomada é de controle de volume.
+O secador é de cabo retrátil.
+A chapinha é de placas largas.
+O modelador é de cacho pequeno.
+A escova é de cerdas flexíveis.
+O pente é de dentes inclinados.
+O shampoo é de pera.
+O condicionador é de ameixa.
+A máscara é de damasco.
+O óleo é de avelã.
+O spray é de efeito praia.
+O gel é de alta resistência.
+A pomada é de textura grossa.
+O secador é de 2400 watts.
+A chapinha é de placas flutuantes.
+O modelador é de cacho duplo.
+A escova é de cerdas retas.
+O pente é de dentes alternados.
+O difusor é de 20 cm.
+O babyliss é de 12 mm.
+O cortador é de 15 watts.
+A máquina é de uso contínuo.
+A lâmina é de 1 mm.
+O creme é de hidratação corporal.
+O pós-barba é de 250 ml.
+A navalha é de cabo de osso.
+A toalha é de 80 cm.
+O cinto é de lona.
+A capa é de tecido leve.
+A tesoura é de 7 polegadas.
+O borrifador é de 250 ml.
+A prancha é de cerâmica rosa.
+O protetor é de óleo.
+O shampoo é de mirtilo.
+O condicionador é de acerola.
+A máscara é de graviola.
+O sérum é de controle de oleosidade.
+O tônico é de hidratação.
+O spray é de efeito molhado.
+O mousse é de controle de frizz.
+O finalizador é de textura leve.
+A escova é de cerdas arredondadas.
+O pente é de dentes largos.
+O elástico é de 10 cm.
+O prendedor é de couro.
+A tiara é de veludo.
+O laço é de renda.
+O grampo é de 6 cm.
+O aplique é de 80 cm.
+A peruca é de 60 cm.
+O megahair é de elástico.
+O adesivo é de 15 cm.
+O removedor é de base oleosa.
+O shampoo é de grapefruit.
+O condicionador é de figo.
+A máscara é de carambola.
+O leave-in é de proteção contra poluição.
+O óleo é de semente de abóbora.
+O tônico é de controle de caspa.
+O spray é de efeito cacheado.
+O gel é de textura fina.
+A pomada é de alta resistência.
+O pó é de acabamento natural.
+O penteado é com cornrows.
+O coque é com trança.
+O rabo é de cavalo solto.
+O cabelo é com sombra.
+O cabelo é com degradê.
+O cabelo é com franja.
+O corte é wolf cut.
+O corte é buzz cut.
+A franja é arredondada.
+O tingimento é cobre.
+O descolorante é de 10 volumes.
+A tinta é de 300 ml.
+O tonalizante é de 150 ml.
+O oxidante é de 35 volumes.
+O pincel é de cabo de metal.
+A touca é de látex.
+O papel é de 25 cm.
+A luva é de silicone.
+O avental é de jeans.
+A capa é de tecido estampado.
+O espelho é retangular.
+A cadeira é de alumínio.
+O lavatório é de acrílico.
+O suporte é de capa.
+A prateleira é de inox.
+O frasco é de 400 ml.
+O aplicador é de metal.
+O penteado é com box braids.
+O cabelo é com mechas coloridas.
+O corte é high fade.
+A franja é reta longa.
+O shampoo é de jaca.
+O condicionador é de tamarindo.
+A máscara é de lichia.
+O óleo é de semente de morango.
+O spray é de proteção contra vento.
+O gel é de efeito brilhoso.
+A pomada é de textura média.
+O secador é de alta potência.
+A chapinha é de placas curvas.
+O modelador é de cacho extra largo.
+A escova é de cerdas alternadas.
+O pente é de dentes arredondados.
